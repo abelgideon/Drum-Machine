@@ -1,0 +1,17 @@
+#display {
+    color: #fff;
+  }
+  
+  .parent {
+    min-height: 100vh;
+  }
+  
+  .drum-pad {
+    height: 4rem;
+    width: 4rem;
+  }
+  
+  .container {
+    max-width: 40rem;
+  }
+  
