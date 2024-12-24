@@ -1,6 +1,6 @@
 # Drum Machine
 
-This project is part of freeCodeCamp's **Front End Development Libraries** course. The Drum Machine allows users to play different drum sounds by clicking on buttons or pressing corresponding keyboard keys.
+The Drum Machine allows users to play different drum sounds by clicking on buttons or pressing corresponding keyboard keys.
 
 ## Features
 
